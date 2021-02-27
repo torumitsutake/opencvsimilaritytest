@@ -1,0 +1,12 @@
+docopt
+flake8
+flake8-docstrings
+flake8-polyfill
+mccabe
+opencv-python
+pbr
+pycodestyle
+pydocstyle
+pyflakes
+six
+snowballstemmer

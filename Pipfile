@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+docopt = "*"
+flake8 = "*"
+flake8-docstrings = "*"
+flake8-polyfill = "*"
+mccabe = "*"
+opencv-python = "*"
+pbr = "*"
+pycodestyle = "*"
+pydocstyle = "*"
+pyflakes = "*"
+six = "*"
+snowballstemmer = "*"
+
+[dev-packages]
+autopep8 = "*"
+flake8 = "*"
+
+[requires]
+python_version = "3.8"
